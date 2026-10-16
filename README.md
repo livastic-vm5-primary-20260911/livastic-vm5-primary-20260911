@@ -23,7 +23,7 @@ The demos are original portfolio projects and contest entries, **not paid-client
 
 ### Pay-per-use developer API
 
-- [VM5 OpenAPI Lint](https://www.x402scan.com/server/7674c5b5-4645-4f5a-9b08-d7b8af61fd21) — x402 v2, 0.02 USDC on Base per accepted lint operation, permanent [Render API](https://vm5-openapi-x402.onrender.com/v1/docs) and a free [sample report](https://vm5-openapi-x402.onrender.com/v1/sample).
+- [VM5 OpenAPI Lint](https://www.x402scan.com/server/7674c5b5-4645-4f5a-9b08-d7b8af61fd21) — x402 v2, 0.01 USDC on Base per accepted lint operation, permanent [Render API](https://vm5-openapi-x402.onrender.com/v1/docs) and a free [sample report](https://vm5-openapi-x402.onrender.com/v1/sample).
 - [Source and tests](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint) — 21 local tests, structured Redocly reports. **This is a pilot: no real payment settlement or client revenue has yet been verified.**
 
 ### New escrow-oriented development services (Dealwork)
