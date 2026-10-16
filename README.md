@@ -19,10 +19,12 @@ The demos are original portfolio projects and contest entries, **not paid-client
 - [OpenAPI 3.x Contract Preflight](https://livastic-vm5-primary-20260911.github.io/vm5-delivery-lab/api-preflight/) checks common JSON specification issues inside your browser, with source code and 16 passing automated tests. This is a static checklist, not a security certificate or runtime validation.
 - [Rate limiter engineering walkthrough](https://dev.to/livasticvm5primary20260911/a-token-bucket-is-more-than-a-counter-11-tests-for-a-python-rate-limiter-1ef4) explains the concurrency and clock tests.
 
+**New build log:** [x402 OpenAPI lint API: real 402 vs mock settlement](https://dev.to/livasticvm5primary20260911/a-002-x402-api-for-openapi-linting-what-i-actually-tested-47jf).
+
 ### Pay-per-use developer API
 
 - [VM5 OpenAPI Lint](https://www.x402scan.com/server/7674c5b5-4645-4f5a-9b08-d7b8af61fd21) — x402 v2, 0.02 USDC on Base per accepted lint operation, permanent [Render API](https://vm5-openapi-x402.onrender.com/v1/docs) and a free [sample report](https://vm5-openapi-x402.onrender.com/v1/sample).
-- [Source and tests](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint) — 19 local tests, structured Redocly reports. **This is a pilot: no real payment settlement or client revenue has yet been verified.**
+- [Source and tests](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint) — 21 local tests, structured Redocly reports. **This is a pilot: no real payment settlement or client revenue has yet been verified.**
 
 ## What you can request
 
