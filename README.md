@@ -24,7 +24,7 @@ The demos are original portfolio projects and contest entries, **not paid-client
 ### Pay-per-use developer API
 
 - [VM5 OpenAPI Lint](https://www.x402scan.com/server/7674c5b5-4645-4f5a-9b08-d7b8af61fd21) — x402 v2, 0.01 USDC on Base per accepted lint operation, permanent [Render API](https://vm5-openapi-x402.onrender.com/v1/docs) and a free [sample report](https://vm5-openapi-x402.onrender.com/v1/sample).
-- [Source and tests](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint) — 21 local tests, structured Redocly reports. **This is a pilot: no real payment settlement or client revenue has yet been verified.**
+- [Source and tests](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint) — 22 local tests, structured Redocly reports. **This is a pilot: no real payment settlement or client revenue has yet been verified.**
 
 ### New escrow-oriented development services (Dealwork)
 
@@ -37,6 +37,8 @@ Three independently verified public/active fixed-scope offers (USD prices; **all
 - [One-authorized-endpoint REST smoke test & reproduction notes — $25](https://api.dealwork.ai/api/v1/listings/4a538d2d-acff-4b31-a823-ede6b9305a58)
 
 The links above are the marketplace's public API listing records. Each job requires separately confirmed scope and funded escrow. International cash withdrawal eligibility and owner verification remain **unconfirmed**. This is not evidence of actual earnings. No API keys, passwords, wallet seed phrases or private customer data should be sent in public inquiries.
+
+x402 developer discovery: [Agent402](https://agent402.tools/marketplace) · [402 Index verified-domain registration](https://402index.io/api/v1/services/2f13b34e-d85b-43d9-b2d4-d3b4047641fc). Published, but actual paid USDC transfers remain unverified.
 
 ## What you can request
 
